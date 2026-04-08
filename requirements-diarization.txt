@@ -1,0 +1,2 @@
+# Optional speaker diarization dependency
+pyannote.audio

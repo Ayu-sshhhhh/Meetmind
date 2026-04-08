@@ -1,0 +1,8 @@
+.env
+node_modules/
+.venv*/
+.meetmind-temp/
+__pycache__/
+*.pyc
+public-tunnel*.log
+public-tunnel*.err

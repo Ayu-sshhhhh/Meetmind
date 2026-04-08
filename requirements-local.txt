@@ -1,0 +1,3 @@
+# Core local transcription dependencies
+faster-whisper
+torchaudio

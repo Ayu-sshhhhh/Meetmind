@@ -1,0 +1,14 @@
+{
+  "name": "meetmind-baalcodex",
+  "description": "Hybrid meeting intelligence workspace with cloud analysis and local transcription fallback.",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "doctor": "node tools/doctor.js",
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node tests/smoke.js"
+  }
+}
